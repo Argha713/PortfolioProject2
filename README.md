@@ -9,9 +9,9 @@
   <br />
   <br />
 
-  <h2 align="center">Richard Ryan - Photographer Portfolio Website</h2>
+  <h2 align="center">Argha Sarkar - Photographer Portfolio Website</h2>
 
-  Richard Ryan is a fully responsive portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Argha Sarkar is a fully responsive portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://codewithsadee.github.io/richard-ryan/"><strong>➥ Live Demo</strong></a>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Richard Ryan Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Argha Sarkar Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Richard Ryan** locally, run this command on your git bash:
+To run **Argha Sarkar** locally, run this command on your git bash:
 
 Linux and macOS:
 
